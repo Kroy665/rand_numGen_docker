@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "install": "",
-        "run": ""
+        "install": "ls",
+        "run": "ls"
     }
 }
