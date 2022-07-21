@@ -1,6 +1,6 @@
 {
     "scripts": {
-        "install": "sed -i 's/koushik/PROJECT_ID/g' Dockerfile; docker build -t simple-expess-image .",
-        "run": "docker run -p 8080:8080"
+        "install": "",
+        "run": ""
     }
 }
