@@ -7,7 +7,7 @@ console.log("ENV: ", process.env);
  
 setInterval(()=>{
     var randN = getRandomNumber(1,100);
-    // console.log("randN: ",randN)
+    console.log("randN: ",randN)
     dashboard({
         value1: randN*randN,
         value2: randN
